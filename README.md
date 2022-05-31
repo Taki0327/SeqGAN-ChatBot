@@ -2,6 +2,7 @@
 tensorflow2 , Seq2Seq with Attention 
 
 论文原文：https://arxiv.org/pdf/1609.05473.pdf
+
 论文源代码：https://github.com/LantaoYu/SeqGAN
 
 模型整体架构：
